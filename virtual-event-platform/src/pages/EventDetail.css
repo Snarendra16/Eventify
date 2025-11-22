@@ -1,0 +1,79 @@
+.event-detail-container {
+    padding: 20px;
+    background: #fff;
+  }
+  
+  .event-title {
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+  
+  .event-main {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  
+  .event-left {
+    flex: 1 1 60%;
+  }
+  
+  .event-banner {
+    width: 100%;
+    height: 300px;
+    border-radius: 16px;
+  }
+  
+  .event-about {
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .event-about h3 {
+    margin-bottom: 8px;
+  }
+  
+  .interested {
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .btn-interest {
+    background: #ddd;
+    border: none;
+    padding: 6px 10px;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  .event-info-card {
+    flex: 1 1 30%;
+    background: #e7d8fc;
+    padding: 16px;
+    border-radius: 16px;
+  }
+  
+  .event-info-card p {
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .price-section {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .btn-book {
+    background: #6b28d6;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 12px;
+    margin-top: 8px;
+    cursor: pointer;
+  }
+  
