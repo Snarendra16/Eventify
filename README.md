@@ -5,5 +5,3 @@
 - **Step 3**: Run frontend. ($npm start)
 - **Step 4**: Go to backend directory ($ cd backend/)
 - **Step 5**: Run backend ($node server.js)
-- **Step 6**: Run the application. ($npm start)
-
