@@ -175,7 +175,8 @@ app.put('/api/users/:id', async (req, res) => {
   }
 });
 
-// Create Event
+// Create Event 
+
 app.post('/api/events', upload.single('poster'), async (req, res) => {
   try {
     const {
